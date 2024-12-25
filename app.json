@@ -1,6 +1,6 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
+  "name": "HÄSSÄN-ÖVÏÇ",
+  "description": "HÄSSÄN-ÖVÏÇ Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
   "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -8,13 +8,13 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Xj5igLLQ#EBoUYRANog7xVqUr5uRPSNi_NWnfDmJXuouP1PfHCuk",
       "required": true,
-      "value": "public"
+      "value": "private"
     },  
     
     "MONGODB": {
-      "description": "put the your mongodb database url",
+      "description": "mongodb+srv://laramd:sadeesha2006@anya.gvsp435.mongodb.net/?retryWrites=true&w=majority&appName=Anya"
       "required": true,
       "value": "mongodb+srv://laramd:sadeesha2006@anya.gvsp435.mongodb.net/?retryWrites=true&w=majority&appName=Anya"
     }
