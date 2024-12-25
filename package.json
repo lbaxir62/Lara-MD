@@ -1,12 +1,12 @@
 {
-  "name": "lara",
+  "name": "HÄSSAN ÖVÏÇ",
   "version": "1.0.0",
-  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
+  "description": "HÄSSÄN-ÖVÏÇ WhatsApp bot created Sadeesha With using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name lara",
-    "stop": "pm2 stop lara",
-    "restart": "pm2 restart lara"
+    "start": "pm2 start index.js --deep-monitoring --attach --name övïç",
+    "stop": "pm2 stop oviç",
+    "restart": "pm2 restart övïç"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
